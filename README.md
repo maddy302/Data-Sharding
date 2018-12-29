@@ -118,5 +118,3 @@ GET http://localhost:5003
 python3 hrw_hash.py causes-of-death.csv
 ...
 ```
-
-You might want to implement CSV parser in a separate file called csv_paser.py so that both clients are shared the implementation.
